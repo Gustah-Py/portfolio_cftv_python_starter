@@ -72,9 +72,6 @@ cameras:
 
 ---
 
-## 🖼️ Demonstração
-Coloque prints de execução (terminal, pastas criadas, snapshot) na pasta `demo/`.  
-Exemplos prontos: `demo/sample-log.txt`.
 
 ---
 
