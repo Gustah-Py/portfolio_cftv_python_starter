@@ -10,8 +10,8 @@
 ---
 
 Sistema de **monitoramento e automação CFTV** usando Python para câmeras IP (RTSP/ONVIF).
-Este repositório foi preparado como **portfólio**: código limpo, README completo,
-licença, changelog e estrutura pronta para publicar no GitHub.
+ código limpo, README completo,
+licença, changelog e estrutura 
 
 ---
 
