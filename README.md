@@ -86,7 +86,7 @@ Exemplos prontos: `demo/sample-log.txt`.
 ---
 
 ## 👤 Autor
-**Gustavo Marques de Almeida** • Uberaba‑MG, Brasil  
+**Gustavo Marques de Almeida** • São Paulo-SP, Brasil  
 GitHub e LinkedIn aqui (edite este README após publicar).
 
 ---
