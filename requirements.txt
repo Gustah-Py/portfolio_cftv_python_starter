@@ -1,0 +1,6 @@
+opencv-python
+requests
+PyYAML
+ffmpeg-python
+python-dotenv
+onvif-zeep

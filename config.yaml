@@ -1,0 +1,14 @@
+cameras:
+  - name: Teste_Publico
+    rtsp: "rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov"
+    timeout_sec: 5
+
+snapshots:
+  enabled: true
+  interval_sec: 15
+  output_dir: "./data/snapshots"
+  daily_video: false
+
+logging:
+  level: INFO
+  dir: "./logs"
